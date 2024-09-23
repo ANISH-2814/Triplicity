@@ -10,4 +10,6 @@ module com.triplicity {
 
     opens com.triplicity to javafx.fxml;
     exports com.triplicity;
+    exports com.triplicity.controllers;
+    opens com.triplicity.controllers to javafx.fxml;
 }
