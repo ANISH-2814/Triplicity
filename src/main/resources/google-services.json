@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tour-and-travel-manageme-ec3cb",
+  "private_key_id": "235cc38c04d4ae96f3f6cef266bb01df5050548e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDN75QjZ2MrVz6e\nZFrRcuKUIbFqM2mT72UpAJykBuX2iTHkHqZhkofGysBpo4NcDl9h6bXSn7ImH5vF\nPsjEiC7xLewJF6iMI//y3GkHzhgEA6R6cvUg2LIpQaa0jnXaiFqghDWj+x9XJizt\nJBFhKYjluGGjOPFgqtQhCwjQI9LOuEWgtHV3SpWrCviFej3tUHxrr9AeGOsya1VJ\n9c6uIffd3ZLBNCckn4yigXG3NFxFJPXYB2XhN7sVt03A/KADc2lmVzUUxZIvf7MQ\n88AqdZ+oKgj5EB+/qjkmofwT/L0ZFza9sJiwSjQcwGHowpFqDbuVfquQBmmplseH\nkZBuIbXVAgMBAAECggEAK2m63TbNn2SiQQJPafGR5d/vdn+1nVfdh8YG/4Yrwuv7\nrkcu1IlvIZ967hooFkc6YNoDuE3toJ9Pt4ZrjRDXcoT3ihgocjihm5lO8/QEuI3r\nBdxHpD/CWTOrmMsiean+jvGoHDRTkEvuMyTEHCtFHoZe4Omfav1AQGIC3tv6dBTg\nN64Liz+9zbW4XQlv6ezreW2bfMFAu1mv0Msu0VYe5IMIZveDK7WqzsCBPWMAT1jS\nwNbInhc0tR8d/WrvH2jrMwwJhmhkZtjYMjxIc8vz3RjV00UCLANbCoUOgIkg00SL\nbFBAnIMQgjbAs3p4hNTSWQRNxs2YmW1kyfLXZeBtqQKBgQDyX+UF/kiskgPsWTwF\nwftEDe8q1H5EZD0PQMlNMdIEFO2LA271FXWw++HYHNkAs3j4b7FkfaZtsydB3sMd\ne4/qPWga7Z9TN7E47RdDGbNIc7cz090Mx3dt714ggVXicltR2bsdM+96OojTqsnq\nUB0gzOndRK98Vcj5WBRmVHzN7QKBgQDZg0fAyyX+9E0tDt0L7YV0W8lwg2EnkMVG\n/F/kETU26RVLeLZPIfXLUYxhX1Ex+RLcDlK+ufqZsDkv3OO4yc6OZ96076Z0pMx6\n0J9G+LWiudNNu93YAN13/0pAAF9LoyfQ6w/PRYgJASImomFAk4K/q21DTnzAmxUs\nNk4uUPVKiQKBgQDug3nQbQ09ba+YrbPIgr1umjvLLTNYwD/qO7odUjK3O5ULoQRX\nAJhB4427a6AM9ZDNArVSC+h0ucGfK8VcxRS50VYacc7BSOQI/iBPMwJgASe/Q/Wb\nNsuLjuxVFpHa9uhw4tAlC8/Vu7acfcyX3eDcP2rBCW+b7puI7KmejfQHfQKBgDtE\nIwvsDnlOlay+TQqP+HoA/H00vwcp0icKYxJggfBpSA0dYgdjyHZSzP5HG3eTV0kw\neelQAXFY6+wXstDJ5Ac3VB5W4jMMKE8agxuybsNdAK9Ajizp525n2BJiR5Tzasjp\nE5C1cGCLt4NxYTBYQRr6mbXqL+HHH9jBH0JNetiJAoGAEK1CT+aAFFTEKsMXU2XB\nfjq2O7Wx2fM1pIcjL0/eCztaPnPu33jGuWfGdGIWylNe8VyiULHWfIytly8WnJo1\nWJfpBcRSnCJuzwkb+Zhyd1uQ3xSUSwwMf+yusSi8BP+hzdroyPrM6Wg7n6GuZTQ6\nf0TYXtd7R4KKBrggAgxFNeY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ez5b1@tour-and-travel-manageme-ec3cb.iam.gserviceaccount.com",
+  "client_id": "103985103526552907334",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ez5b1%40tour-and-travel-manageme-ec3cb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
